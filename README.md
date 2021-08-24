@@ -3,8 +3,8 @@ Business Problem - Predict which customer of bank will leave the bank or not. Th
 This project is made in Python and using Flask as web framework and deployed in Heroku Cloud Platform
 App Link - https://bank-churning-prediction.herokuapp.com/
 App Visual :- 
-<img src = "">
+<img src = "https://github.com/manansharma27/Bank-churning/blob/master/img.PNG">
 <br>
-<img src = "">
+<img src = "https://github.com/manansharma27/Bank-churning/blob/master/img1.PNG">
 
 Thank You!
