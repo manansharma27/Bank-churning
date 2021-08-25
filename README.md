@@ -9,6 +9,8 @@ App Visual :-
 <br>
 <img src = "https://github.com/manansharma27/Bank-churning/blob/master/img.PNG">
 <br>
-<img src = "https://github.com/manansharma27/Bank-churning/blob/master/img1.PNG">
+<img src = "https://github.com/manansharma27/Bank-churning/blob/master/image.PNG">
+<br>
+<img src = "https://github.com/manansharma27/Bank-churning/blob/master/img3.PNG">
 <br>
 Thank You!
