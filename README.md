@@ -13,4 +13,9 @@ App Visual :-
 <br>
 <img src = "https://github.com/manansharma27/Bank-churning/blob/master/img3.PNG">
 <br>
+<br>
+Bank Customer Churning Power BI Dashboard
+<img src = "https://github.com/manansharma27/Bank-churning/blob/master/Bank_CustomerChurning.PNG">
+<br>
+<br>
 Thank You!
