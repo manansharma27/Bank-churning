@@ -5,7 +5,8 @@ This project is made in Python and using Flask as web framework and deployed in 
 <br>
 App Link - https://bank-churning-prediction.herokuapp.com/
 <br>
-App Visual :- 
+Power BI Dashboard - https://app.powerbi.com/view?r=eyJrIjoiYTg0ZGU2NzYtMDg1MC00M2Q0LWE2ZmItZWU2MWMwOTFlNzVmIiwidCI6ImNhYTA0ZDNlLTI4NTgtNGM5Ni1iODAyLTYwMWZjYTE5YjkzMiJ9
+<br><br>App Visual :- 
 <br>
 <img src = "https://github.com/manansharma27/Bank-churning/blob/master/img.PNG">
 <br>
