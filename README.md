@@ -19,6 +19,7 @@ Steps taken:-<br>
 3) Outlier Detection
 4) Exploratory Data Analysis
 5) Model Building
+6) Model Deployment in Heroku Cloud using Flask as web framework
 <br><br><br>
 App Visual :- 
 <br>
